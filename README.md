@@ -3,7 +3,9 @@ This is a simple repository with the goal of testing features in java languages
 
 
 ## 1) Data Structures
-
+- Set and HashSet
+- Map and HashMap
+- LinkedList vs ArrayList
 
 ## 2) Generics
 - Generics in Java
