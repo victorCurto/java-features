@@ -1,7 +1,6 @@
 # java-features
 This is a simple repository with the goal of testing features in java languages
 
-
 ## 1) Data Structures
 - Set and HashSet
 - Map and HashMap
@@ -42,3 +41,7 @@ https://github.com/AndriiPiatakha/learnit_java_core/tree/master/src/com/itbulls/
 
 ## 5) Reflection
 
+
+---
+### Resources:
+https://www.youtube.com/playlist?list=PLkeaG1zpPTHhXOfy-mFbdqd1Zz4GnjcpC
