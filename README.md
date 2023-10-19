@@ -5,6 +5,7 @@ This is a simple repository with the goal of testing features in java languages
 - Set and HashSet
 - Map and HashMap
 - LinkedList vs ArrayList
+- Array and ArrayList
 
 ## 2) Generics
 - Generics in Java
@@ -36,10 +37,13 @@ This is a simple repository with the goal of testing features in java languages
 Source:
 https://github.com/AndriiPiatakha/learnit_java_core/tree/master/src/com/itbulls/learnit/javacore/functions/lambdaandmethodreference
 
-## 4) Records
+## 5) Optionals
 
 
-## 5) Reflection
+## 6) Records
+
+
+## 7) Reflection
 
 
 ---
